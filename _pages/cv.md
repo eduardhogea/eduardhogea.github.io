@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 You can download my resume [here](files\resume.pdf). 
  <br>
