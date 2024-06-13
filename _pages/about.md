@@ -10,10 +10,6 @@ redirect_from:
 
 Welcome to my portfolio website! I am **Eduard Hogea**, a dedicated AI Software Developer with a passion for **Big Data**, **Artificial Intelligence**, and **Machine Learning**. This website serves as an easier way for me to showcase my professional journey, skills, accomplishments, and projects.
 
-## About Me
-
-I am a dedicated AI Software Developer with extensive experience in **Big Data**, **Artificial Intelligence**, and **Machine Learning**. I strive to blend academic research and industry work, centering my expertise in **Explainable AI** and **Incremental Learning**.
-
 ## Education and Work Timeline
 
 <section style="background-color: #F0F2F5;">
