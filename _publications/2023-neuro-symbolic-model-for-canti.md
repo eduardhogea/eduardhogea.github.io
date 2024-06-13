@@ -7,7 +7,7 @@ date: 2023-01-01
 venue: "Unknown Venue"
 slidesurl: "#"
 thumbnail: "/images/LCNR_diagram_resized.png"  # Adjust the path to your actual thumbnail location
-paperurl: "#"
+paperurl: "https://arxiv.org/pdf/2305.03063"
 citation: "@article{onchis2023neuro,
   title={Neuro-symbolic model for cantilever beams damage detection},
   author={Onchis, Darian M and Gillich, Gilbert-Rainer and Hogea, Eduard and Tufisi, Cristian},

@@ -7,7 +7,7 @@ date: 2022-01-01
 venue: "Unknown Venue"
 slidesurl: "#"
 thumbnail: "/images/lcnc.png"  # Adjust the path to your actual thumbnail location
-paperurl: "#"
+paperurl: "/files/lcnc.pdf"
 citation: "@article{onchis2022neuro,
   title={A Neuro-Symbolic Classifier with Optimized Satisfiability for Monitoring Security Alerts in Network Traffic},
   author={Onchis, Darian and Istin, Codruta and Hogea, Eduard},

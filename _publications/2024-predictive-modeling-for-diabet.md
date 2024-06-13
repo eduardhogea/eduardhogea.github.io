@@ -7,7 +7,7 @@ date: 2024-01-01
 venue: "Unknown Venue"
 slidesurl: "#"
 thumbnail: "/images/lime.png"  # Adjust the path to your actual thumbnail location
-paperurl: "#"
+paperurl: "https://www.medrxiv.org/content/10.1101/2024.03.14.24304281.full.pdf"
 citation: "@article{costi2024predictive,
   title={Predictive Modeling for Diabetes Using GraphLIME},
   author={Costi, Flavia and Onchis, Darian and Hogea, Eduard and Istin, Codruta},

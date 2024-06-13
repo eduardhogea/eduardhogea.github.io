@@ -7,7 +7,7 @@ date: 2024-01-01
 venue: "Unknown Venue"
 slidesurl: "#"
 thumbnail: "/images/dalle.png"  # Adjust the path to your actual thumbnail location
-paperurl: "#"
+paperurl: "https://arxiv.org/pdf/2405.19176"
 citation: "@article{hogea2024ethical,
   title={The ethical situation of DALL-E 2},
   author={Hogea, Eduard and Rocafortf, Josem},

@@ -7,7 +7,7 @@ date: 2024-01-01
 venue: "Unknown Venue"
 slidesurl: "#"
 thumbnail: "/images/fetril.png"  # Adjust the path to your actual thumbnail location
-paperurl: "#"
+paperurl: "https://arxiv.org/pdf/2403.07406"
 citation: "@article{hogea2024fetril++,
   title={FeTrIL++: Feature Translation for Exemplar-Free Class-Incremental Learning with Hill-Climbing},
   author={Hogea, Eduard and Popescu, Adrian and Onchis, Darian and Petit, Gregoire},
