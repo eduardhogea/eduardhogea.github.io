@@ -12,7 +12,7 @@ title                    : "Eduard Hogea / Resume"
 title_separator          : "-"
 name                     : &name "Eduard Hogea"
 description              : &description "Hacking my way through life as a second-year Master's student specializing in Big Data . Passionate about Artificial Intelligence and constantly honing my skills."
-url                      : "eduardhogea.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eduardhogea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eduardhogea.github.io"
 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "eduardhogea"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
