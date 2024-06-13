@@ -25,4 +25,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem "webrick", "~> 1.8"
+  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+  gem 'csv', '>= 3.0.9' # Adding the csv gem as suggested by the warning message
+
 end
