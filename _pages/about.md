@@ -1,15 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: "Hello there"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Hello there
 
-Hi and welcome to my portfolio website! I am **Eduard Hogea**, a dedicated AI Software Developer with a passion for **Big Data**, **Artificial Intelligence**, and **Machine Learning**. This website serves as an easier way for me to showcase my professional journey, skills, accomplishments, and projects.
+Welcome to my portfolio website! I am **Eduard Hogea**, a dedicated AI Software Developer with a passion for **Big Data**, **Artificial Intelligence**, and **Machine Learning**. This website serves as an easier way for me to showcase my professional journey, skills, accomplishments, and projects.
 
 ## About Me
 
