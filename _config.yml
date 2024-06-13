@@ -12,9 +12,9 @@ title                    : "Eduard Hogea / Resume"
 title_separator          : "-"
 name                     : &name "Eduard Hogea"
 description              : &description "Hacking my way through life as a second-year Master's student specializing in Big Data . Passionate about Artificial Intelligence and constantly honing my skills."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eduardhogea.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "eduardhogea/eduardhogea.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
