@@ -10,7 +10,7 @@ thumbnail: "/images/fetril.png"  # Adjust the path to your actual thumbnail loca
 paperurl: "#"
 citation: "@article{hogea2024fetril++,
   title={FeTrIL++: Feature Translation for Exemplar-Free Class-Incremental Learning with Hill-Climbing},
-  author={Hogea, Eduard and Popescu, Adrian and Onchis, Darian and Petit, Gr{\'e}goire},
+  author={Hogea, Eduard and Popescu, Adrian and Onchis, Darian and Petit, Gregoire},
   journal={arXiv preprint arXiv:2403.07406},
   year={2024}
 }
