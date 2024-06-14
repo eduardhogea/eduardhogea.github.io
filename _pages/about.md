@@ -126,7 +126,7 @@ Welcome to my portfolio website! I am **Eduard Hogea**, a dedicated AI Software 
 
 ## Research and Publications
 
-More information can be found on the [Publications page](http://localhost:4000/publications/). My most notable work includes:
+More information can be found on the [Publications page](https://eduardhogea.github.io/publications/). My most notable work includes:
 
 - **Neuro-symbolic model for cantilever beams damage detection**
   - Co-authored a paper in *“Computers in Industry-Elsevier”*, introducing a novel "Logical Convolutional Neural Regression" model.
