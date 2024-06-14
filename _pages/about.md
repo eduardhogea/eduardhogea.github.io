@@ -58,7 +58,7 @@ Welcome to my portfolio website! I am **Eduard Hogea**, a dedicated AI Software 
           <div class="card-body p-4">
             <h4 class="fw-bold mb-4">West University of Timisoara, Timisoara</h4>
             <p class="text-muted mb-4"><i class="far fa-clock" aria-hidden="true"></i> September 2022 - June 2024</p>
-            <p class="mb-0"><span class="highlight"><strong>Big Data Master’s Degree</strong></span></p>
+            <p class="mb-0"><span class="highlight"><strong>Big Data Master’s Degree</strong></span><br>Thesis: <strong>Exemplar-Free Feature Selection via Guided Translation and Optimization: Towards Robust Class-Incremental Learning</strong></p>
           </div>
         </div>
       </div>
@@ -111,6 +111,7 @@ Welcome to my portfolio website! I am **Eduard Hogea**, a dedicated AI Software 
     </div>
   </div>
 </section>
+
 
 ## Contact Details
 
