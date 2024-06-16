@@ -6,7 +6,7 @@ excerpt: "This paper presents a novel anomaly detection methodology termed Stati
 date: 2024-06-16
 venue: "arXiv/SYNASC(future)"
 #slidesurl: "#"
-thumbnail: "/images/main_diagram.png"  # Adjust the path to your actual thumbnail location
+thumbnail: "/images/main_diagram.jpg"  # Adjust the path to your actual thumbnail location
 paperurl: "https://arxiv.org/pdf/2406.08516"
 citation: "@article{goina2024enhanced,
   title={Enhanced Anomaly Detection in Automotive Systems Using SAAD: Statistical Aggregated Anomaly Detection},
