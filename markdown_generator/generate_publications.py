@@ -23,7 +23,7 @@ def generate_bibtex(publication):
     author = publication['bib']['author']
     title = publication['bib']['title']
     venue = publication['bib'].get('venue', 'Unknown Venue')
-    year = publication['bib']['pub_year']
+    year = publication['bib'].get('pub_year', 'Unknown Year')
     
     bibtex = f"@article{{{author.replace(' ', '')}{year},\n"
     bibtex += f"  author = {{{author}}},\n"
@@ -35,7 +35,7 @@ def generate_bibtex(publication):
 
 def generate_markdown(publication):
     title = sanitize_text(publication['bib']['title'])
-    year = publication['bib']['pub_year']
+    year = publication['bib'].get('pub_year', 'Unknown Year')
     venue = sanitize_text(publication['bib'].get('venue', 'Unknown Venue'))
     url = publication.get('eprint_url', '#')
     citation = generate_bibtex(publication)
@@ -49,7 +49,7 @@ excerpt: "{excerpt}"
 date: {year}-01-01
 venue: "{venue}"
 slidesurl: "#"
-thumbnail: "/assets/images/thumbnail.jpg"  # Adjust the path to your actual thumbnail location
+thumbnail: "/images/thumbnail.jpg"  # Adjust the path to your actual thumbnail location
 paperurl: "{url if url else '#'}"
 citation: "{citation}"
 ---
@@ -78,7 +78,7 @@ def main():
     for pub in author['publications']:
         pub_details = scholarly.fill(pub)
         title = pub_details['bib']['title']
-        year = pub_details['bib']['pub_year']
+        year = pub_details['bib'].get('pub_year', 'Unknown Year')
         sanitized_title = sanitize_title(title)
         file_name = f"{year}-{sanitized_title[:30]}.md"  # Limit filename length to 30 characters for simplicity
         file_path = os.path.join('_publications', file_name)
