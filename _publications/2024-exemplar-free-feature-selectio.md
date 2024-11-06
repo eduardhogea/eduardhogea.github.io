@@ -6,12 +6,10 @@ excerpt: "Being able to constantly retrain a model with new data, while not reta
 date: 2024-01-01
 venue: "Unknown Venue"
 slidesurl: "#"
-thumbnail: "/images/thumbnail.jpg"  # Adjust the path to your actual thumbnail location
-paperurl: "#"
-citation: "@article{DarianOnchisandEduard-FlorinHogea2024,
-  author = {Darian Onchis and Eduard-Florin Hogea},
-  title = {Exemplar-Free Feature Selection via Guided Translation and Optimization: Towards Robust Class-Incremental Learning},
-  journal = {Unknown Venue},
-  year = {2024}
+thumbnail: "/images/exemplar.png"  # Adjust the path to your actual thumbnail location
+paperurl: "https://shorturl.at/5DYMD"
+citation: "@article{onchisexemplar,
+  title={Exemplar-Free Feature Selection via Guided Translation and Optimization: Towards Robust Class-Incremental Learning},
+  author={Onchis, Darian and Hogea, Eduard-Florin}
 }"
 ---
